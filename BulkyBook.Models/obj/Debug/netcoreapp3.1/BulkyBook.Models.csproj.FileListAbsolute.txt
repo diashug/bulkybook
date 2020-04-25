@@ -1,0 +1,8 @@
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.deps.json
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.csprojAssemblyReference.cache
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\diash\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.pdb
